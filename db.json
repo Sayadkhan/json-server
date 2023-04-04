@@ -4,5 +4,11 @@
       "text": "learn react",
       "id": 1
     }
+  ],
+  "products": [
+    {
+      "title": "food",
+      "price": 100
+    }
   ]
 }
